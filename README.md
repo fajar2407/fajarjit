@@ -1,0 +1,2 @@
+# fajarjit
+Pelajar Termux 
